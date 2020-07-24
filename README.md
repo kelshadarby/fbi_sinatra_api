@@ -92,7 +92,7 @@ Example
 
 ## <a name="built-with"></a> Built With
 
-* [Rails](https://rubyonrails.org/) - The web framework used
+* [Sinatra](http://sinatrarb.com/) - The api framework used
 
 ## <a name="api-tools"></a> API's & Tools Used
 
@@ -100,4 +100,7 @@ Example
 
 ## <a name="contributors"></a> Contributors
 
+* [**Jordan Sewell**](https://github.com/jrsewell400)
 * [**Kelsha Darby**](https://github.com/kelshadarby)
+* [**Ryan Camp**](https://github.com/cmpprg)
+* [**Jenny Klich**](https://github.com/jklich151)
