@@ -1,4 +1,4 @@
-![Sinatra API Logo (1)](https://user-images.githubusercontent.com/55028065/88423267-bf8b5200-cda8-11ea-8e2c-f05ed51bbd8b.png)
+![Sinatra API Logo (2)](https://user-images.githubusercontent.com/55028065/88425709-13983580-cdad-11ea-9d8c-bb6a3adcb303.png)
 
 ## Contents
 - [About](#about)
